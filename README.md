@@ -1,6 +1,6 @@
 ### Node.js后端+Vue前端全栈新闻管理
 
-db存放的是数据库
+db存放的是数据库(手动创建一个db文件夹)
 
 server存放的是Nodejs项目
 
