@@ -1,5 +1,10 @@
 ### Node.js后端+Vue前端全栈新闻管理
 
+###新项目支持ts,后台数据改为mysql
+```
+https://github.com/Bluecook/News
+```
+
 db存放的是数据库(手动创建一个db文件夹)
 
 server存放的是Nodejs项目
@@ -46,11 +51,4 @@ admin文件夹存放的是后台管理项目，web存放的是web前端网页
    npm run dev
    ```
 
-9. 
-
-10. 
-
-11. 
-
-12. 
 
