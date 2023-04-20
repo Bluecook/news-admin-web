@@ -1,6 +1,6 @@
 ### Node.js后端+Vue前端全栈新闻管理
 
-### 新项目支持ts,后台数据改为mysql
+### 重写了该项目支持ts,后台数据改为mysql
 ```
 https://github.com/Bluecook/News
 ```
